@@ -1,0 +1,43 @@
+dominant_year,dominance_ratio,type,size,university,algorithm,community_id
+2006,0.35,Senior,90,Caltech36,Louvain,0
+2006,0.2361111111111111,Senior,88,Caltech36,Louvain,1
+2008,0.32432432432432434,Intermediate,82,Caltech36,Louvain,2
+2009,0.8125,Freshman,17,Caltech36,Louvain,3
+2008,0.8333333333333334,Intermediate,27,Caltech36,Louvain,4
+2008,0.2823529411764706,Intermediate,96,Caltech36,Louvain,5
+2007,0.3235294117647059,Intermediate,122,Caltech36,Louvain,6
+2006,0.31683168316831684,Senior,115,Caltech36,Louvain,7
+2008,0.30357142857142855,Intermediate,125,Caltech36,Louvain,8
+2008,0.2678018575851393,Intermediate,762,Caltech36,LPA,623
+2009,0.9930555555555556,Freshman,293,Haverford76,Louvain,0
+2008,0.8704318936877077,Intermediate,314,Haverford76,Louvain,1
+2007,0.4826254826254826,Intermediate,286,Haverford76,Louvain,2
+2005,0.49480968858131485,Intermediate,336,Haverford76,Louvain,3
+2006,0.37055837563451777,Senior,217,Haverford76,Louvain,4
+2008,0.27808988764044945,Intermediate,1178,Haverford76,LPA,370
+2009,1.0,Freshman,268,Haverford76,LPA,306
+2005,0.24,Intermediate,95,MIT8,Louvain,0
+2004,0.37261146496815284,Intermediate,877,MIT8,Louvain,1
+2008,0.2570921985815603,Intermediate,720,MIT8,Louvain,2
+2009,0.9472477064220184,Freshman,958,MIT8,Louvain,3
+2008,0.19858156028368795,Intermediate,713,MIT8,Louvain,4
+2008,0.6233766233766234,Intermediate,652,MIT8,Louvain,5
+2006,0.2764632627646326,Senior,975,MIT8,Louvain,7
+2006,0.26262626262626265,Senior,366,MIT8,Louvain,8
+2006,0.28205128205128205,Senior,97,MIT8,Louvain,9
+2007,0.3584905660377358,Intermediate,802,MIT8,Louvain,10
+2007,0.24770642201834864,Intermediate,134,MIT8,Louvain,11
+2008,0.1940212150433944,Intermediate,6347,MIT8,LPA,1997
+2010,0.7391304347826086,Intermediate,34,MIT8,LPA,445
+2010,0.9,Intermediate,18,MIT8,LPA,4872
+2007,0.38131041890440387,Intermediate,1076,Johns Hopkins55,Louvain,0
+2009,0.9688221709006929,Freshman,907,Johns Hopkins55,Louvain,1
+2008,0.9370748299319728,Intermediate,648,Johns Hopkins55,Louvain,2
+2007,0.3472803347280335,Intermediate,292,Johns Hopkins55,Louvain,3
+2005,0.32545649838882923,Intermediate,1115,Johns Hopkins55,Louvain,5
+2006,0.23684210526315788,Senior,238,Johns Hopkins55,Louvain,6
+2006,0.2696078431372549,Senior,235,Johns Hopkins55,Louvain,7
+2006,0.2714285714285714,Senior,642,Johns Hopkins55,Louvain,8
+2008,0.2519214346712212,Intermediate,4077,Johns Hopkins55,LPA,775
+2009,0.9829476248477467,Freshman,862,Johns Hopkins55,LPA,2644
+2006,0.2342857142857143,Senior,210,Johns Hopkins55,LPA,1381
